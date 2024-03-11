@@ -6,7 +6,7 @@
 
 La necesidad de **prever y optimizar** el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras.
 
-## Problemática ⚠️
+## Problemática 🚧
 
 El porcentaje de compradores que **no realizaron una compra** es de más del 90% en comparación de aquellos que si realizaron una compra, gracias a un análisis previo de los datos pudimos conocer esta métrica,  como científicos de datos hemos sido convocados para desarrollar y dar solución a dicho problema asi mismo creando un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web🌐.
 
