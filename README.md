@@ -11,7 +11,7 @@ La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una emp
 | :---: | :---: | :--- | 
 | `transactionRevenue` | Float | Gasto del cliente en esa interacción |
 
-El dato estrella y el más relevante del proyecto es `transactionRevenue` en cual trabajaremos hacer la predicción🎇
+El dato estrella y el más relevante del proyecto es `transactionRevenue` en la cual trabajaremos para hacer la predicción🎇
 
 ![dispersion](https://i.imgur.com/obCvHUk.png)
 
