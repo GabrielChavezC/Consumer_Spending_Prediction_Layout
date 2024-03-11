@@ -46,6 +46,17 @@ Para preparar el modelo haciendo las relaciones entre las variables que recolect
 
 Como conclusión el modelo a utilizar por ser el mejor es uno de `LightGBM` con una relación a los datos reales del 50% y en producción del 79%, realiza una predicción de los precios que gastará el cliente está `±13,78` dólares de variación y realizando la producción está en `±9.51` dólares de variación💰
 
+## Métricas de los Modelos 📊
+
+|      Modelo      |   R2    |   MSE    |   RMSE    |
+| :--------------: | :-----: | :------: | :-------: |
+| Regresión Lineal |  31.19  |  262.67  |   16.20   |
+|  Random Forest   |  40.99  |  225.24  |   15.00   |
+|   **LightGBM**   | _50.25_ | _189.92_ | **13.78** |
+|     XGBoost      |  44.62  |  211.38  |   14.53   |
+
+
+
 > [!NOTE]
 > [![](https://img.shields.io/badge/acceso%20a%20la%20producción-Consumer__Spending__Prediction__Layout.ipynb-sucess?style=for-the-badge&logo=google-colab&color=ff8000)](https://drive.google.com/file/d/1tw9m_-HJm_5SabOrnxMEAAYZoWrFr4zH/view?usp=sharing)
 
