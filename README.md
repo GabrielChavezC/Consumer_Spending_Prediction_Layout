@@ -32,20 +32,20 @@ Lo preocupante es que la página no tiene una buena conversión de compra a las 
 Para preparar el modelo haciendo las relaciones entre las variables que recolecta la tienda, lo primordial era clasificar quien compraría y quien no y a partir de ahí predecir con regresiones cuánto gastarían en la siguiente visita a la página👀
 
 | Métrica | Para que sirve | 
-| :---: | :---: |
-| `R` | Float |
+| :---: | :--- |
+| `R²` | Calidad del modelo para replicar los resultados |
+| `MSE` | Diferencia **cuadrada** promedio entre los valores predichos por el modelo |
+| `RMSE` | Diferencia promedio entre los valores predichos por el modelo |
 
 
 ![comparacion_modelos](https://i.imgur.com/YezxPet.png)
 
-Como conclusión el modelo a utilizar por ser el mejor es uno de `LightGBM` con una relación a los datos reales del 50% y en producción del 79% realiza una predicción de los precios que gastará el cliente está ±13,78 dólares de variación y realizando la producción está en ±9.51 dólares de variación💰
+Como conclusión el modelo a utilizar por ser el mejor es uno de `LightGBM` con una relación a los datos reales del 50% y en producción del 79%, realiza una predicción de los precios que gastará el cliente está `±13,78` dólares de variación y realizando la producción está en `±9.51` dólares de variación💰
 
 > [!NOTE]
 > [![](https://img.shields.io/badge/acceso%20a%20la%20producción-Consumer__Spending__Prediction__Layout.ipynb-sucess?style=for-the-badge&logo=google-colab&color=ff8000)](https://drive.google.com/file/d/1tw9m_-HJm_5SabOrnxMEAAYZoWrFr4zH/view?usp=sharing)
->
-> 
 
-
+https://github.com/luceldasilva/Consumer_Spending_Prediction_Layout/assets/81886133/7f517bc9-c8c3-4287-b058-b70c68982e91
 
 > [!IMPORTANT]
 > Esto fue un proyecto que participamos los miembros del canal del
