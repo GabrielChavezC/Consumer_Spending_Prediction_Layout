@@ -3,7 +3,11 @@
 ![](https://img.shields.io/badge/python-3.10+-sucess?style=for-the-badge&logo=python)![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Objetivo 👈
-La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web🌐
+
+La necesidad de **prever y optimizar** el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras.
+## Problemática 
+
+El porcentaje de compradores que **no realizaron una compra** es de más del 90% en comparación de aquellos que si realizaron una compra, gracias a un análisis previo de los datos pudimos conocer esta métrica,  como científicos de datos hemos sido convocados para desarrollar y dar solución a dicho problema asi mismo creando un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web🌐.
 
 ## Conociendo a los datos 🗺️
 
